@@ -5,7 +5,7 @@
 This is collections about git commandes and github while you create your own repo!
 
 ### Step 1 : Initialisation
-1. On Github, Creat a repo nammed `Exercice-Cadavre-Exquis-firstName`.
+1. On Github, Creat a repo nammed `Your-repo-name`.
 1. creat a file *README.md*.
 1. In markdown, give a title using the markedown language.
 1. By CMD or terminal type un git clone command to clone the repo to your pc.
